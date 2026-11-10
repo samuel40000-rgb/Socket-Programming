@@ -1,7 +1,7 @@
 public class HelloSocket {
     public static void main(String[] args) {
         String nome = "Samuel";
-        String messaggio = "Hello World dell'esercizio a.";
+        String messaggio = "Hello World sotto controllo versione con Git.";
 
         System.out.println("Hello, World!");
         System.out.println("Studente: " + nome);
